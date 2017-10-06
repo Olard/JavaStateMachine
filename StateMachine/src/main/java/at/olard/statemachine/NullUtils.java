@@ -19,7 +19,7 @@ public class NullUtils {
      * @return {@code null}
      */
     @SuppressWarnings("unchecked")
-    public <T> T promiseNonNull() {
+    public static <T> T promiseNonNull() {
         return (T) nullMap.get("");
     }
 }

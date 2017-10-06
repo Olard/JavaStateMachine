@@ -26,7 +26,7 @@ hs_err_pid*
 .recommenders
 .sonarlint
 
-/target
+target
 .project
 .settings
 .classpath
